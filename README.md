@@ -2,6 +2,8 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [TokyoWesterns](TokyoWesterns/2020) | [CTFtime](https://ctftime.org/event/1086) | [CTFtime](https://ctftime.org/event/1086/tasks/) |
+| [DownUnderCTF](DownUnderCTF/2020) | [CTFtime](https://ctftime.org/event/1084) | [CTFtime](https://ctftime.org/event/1084/tasks/) |
 | [CSAW 2020 Quals](CSAW/2020/Quals) | [CTFtime](https://ctftime.org/event/1079) | [CTFtime](https://ctftime.org/event/1079/tasks/) |
 | [CONFidence 2020 Finals](CONFidence/2020/Finals) | [CTFtime](https://ctftime.org/event/1090) | [CTFtime](https://ctftime.org/event/1090/tasks/) |
 | [ALLES 2020](ALLES/2020) | [CTFtime](https://ctftime.org/event/1091) | [CTFtime](https://ctftime.org/event/1091/tasks/) |
