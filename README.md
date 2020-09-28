@@ -2,6 +2,10 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [BSidesBOS](BSidesBOS/2020) | [CTFtime](https://ctftime.org/event/1125) | [CTFtime](https://ctftime.org/event/1125/tasks/) |
+| [BalCCon](BalCCon/2020) | [CTFtime](https://ctftime.org/event/1100) | [CTFtime](https://ctftime.org/event/1100/tasks/) |
+| [EvlzCTF](EvlzCTF/2020) | [CTFtime](https://ctftime.org/event/1070) | [CTFtime](https://ctftime.org/event/1070/tasks/) |
+| [DarkCTF](DarkCTF/2020) | [CTFtime](https://ctftime.org/event/1118) | [CTFtime](https://ctftime.org/event/1118/tasks/) |
 | [TokyoWesterns](TokyoWesterns/2020) | [CTFtime](https://ctftime.org/event/1086) | [CTFtime](https://ctftime.org/event/1086/tasks/) |
 | [DownUnderCTF](DownUnderCTF/2020) | [CTFtime](https://ctftime.org/event/1084) | [CTFtime](https://ctftime.org/event/1084/tasks/) |
 | [CSAW 2020 Quals](CSAW/2020/Quals) | [CTFtime](https://ctftime.org/event/1079) | [CTFtime](https://ctftime.org/event/1079/tasks/) |
