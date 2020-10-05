@@ -4,7 +4,7 @@ Collection of CTF pwn challenges.
 |--------------------------|-----------|--------------|
 | [b01lers](b01lers/2020) | [CTFtime](https://ctftime.org/event/1089) | [CTFtime](https://ctftime.org/event/1089/tasks/) |
 | [Tasteless](Tasteless/2020) | [CTFtime](https://ctftime.org/event/1124) | [CTFtime](https://ctftime.org/event/1124/tasks/) |
-| [MCTF Quals](MCTF/Quals/2020) | [CTFtime](https://ctftime.org/event/1138) | [CTFtime](https://ctftime.org/event/1138/tasks/) |
+| [MCTF Quals](MCTF/2020/Quals) | [CTFtime](https://ctftime.org/event/1138) | [CTFtime](https://ctftime.org/event/1138/tasks/) |
 | [BSidesBOS](BSidesBOS/2020) | [CTFtime](https://ctftime.org/event/1125) | [CTFtime](https://ctftime.org/event/1125/tasks/) |
 | [BalCCon](BalCCon/2020) | [CTFtime](https://ctftime.org/event/1100) | [CTFtime](https://ctftime.org/event/1100/tasks/) |
 | [EvlzCTF](EvlzCTF/2020) | [CTFtime](https://ctftime.org/event/1070) | [CTFtime](https://ctftime.org/event/1070/tasks/) |
