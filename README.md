@@ -2,15 +2,18 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
-| [b01lers](b01lers/2020) | [CTFtime](https://ctftime.org/event/1089) | [CTFtime](https://ctftime.org/event/1089/tasks/) |
-| [Tasteless](Tasteless/2020) | [CTFtime](https://ctftime.org/event/1124) | [CTFtime](https://ctftime.org/event/1124/tasks/) |
-| [MCTF Quals](MCTF/2020/Quals) | [CTFtime](https://ctftime.org/event/1138) | [CTFtime](https://ctftime.org/event/1138/tasks/) |
-| [BSidesBOS](BSidesBOS/2020) | [CTFtime](https://ctftime.org/event/1125) | [CTFtime](https://ctftime.org/event/1125/tasks/) |
-| [BalCCon](BalCCon/2020) | [CTFtime](https://ctftime.org/event/1100) | [CTFtime](https://ctftime.org/event/1100/tasks/) |
-| [EvlzCTF](EvlzCTF/2020) | [CTFtime](https://ctftime.org/event/1070) | [CTFtime](https://ctftime.org/event/1070/tasks/) |
-| [DarkCTF](DarkCTF/2020) | [CTFtime](https://ctftime.org/event/1118) | [CTFtime](https://ctftime.org/event/1118/tasks/) |
-| [TokyoWesterns](TokyoWesterns/2020) | [CTFtime](https://ctftime.org/event/1086) | [CTFtime](https://ctftime.org/event/1086/tasks/) |
-| [DownUnderCTF](DownUnderCTF/2020) | [CTFtime](https://ctftime.org/event/1084) | [CTFtime](https://ctftime.org/event/1084/tasks/) |
+| [SECCON 2020 Quals](SECCON/2020/Quals) | [CTFtime](https://ctftime.org/event/1119) | [CTFtime](https://ctftime.org/event/1119/tasks/) |
+| [BSidesDelhi 2020](BSidesDelhi/2020) | [CTFtime](https://ctftime.org/event/1158) | [CTFtime](https://ctftime.org/event/1158/tasks/) |
+| [DamCTF 2020](DamCTF/2020) | [CTFtime](https://ctftime.org/event/1076) | [CTFtime](https://ctftime.org/event/1076/tasks/) |
+| [b01lers 2020](b01lers/2020) | [CTFtime](https://ctftime.org/event/1089) | [CTFtime](https://ctftime.org/event/1089/tasks/) |
+| [Tasteless 2020](Tasteless/2020) | [CTFtime](https://ctftime.org/event/1124) | [CTFtime](https://ctftime.org/event/1124/tasks/) |
+| [MCTF 2020 Quals](MCTF/2020/Quals) | [CTFtime](https://ctftime.org/event/1138) | [CTFtime](https://ctftime.org/event/1138/tasks/) |
+| [BSidesBOS 2020](BSidesBOS/2020) | [CTFtime](https://ctftime.org/event/1125) | [CTFtime](https://ctftime.org/event/1125/tasks/) |
+| [BalCCon 2020](BalCCon/2020) | [CTFtime](https://ctftime.org/event/1100) | [CTFtime](https://ctftime.org/event/1100/tasks/) |
+| [EvlzCTF 2020](EvlzCTF/2020) | [CTFtime](https://ctftime.org/event/1070) | [CTFtime](https://ctftime.org/event/1070/tasks/) |
+| [DarkCTF 2020](DarkCTF/2020) | [CTFtime](https://ctftime.org/event/1118) | [CTFtime](https://ctftime.org/event/1118/tasks/) |
+| [TokyoWesterns 2020](TokyoWesterns/2020) | [CTFtime](https://ctftime.org/event/1086) | [CTFtime](https://ctftime.org/event/1086/tasks/) |
+| [DownUnderCTF 2020](DownUnderCTF/2020) | [CTFtime](https://ctftime.org/event/1084) | [CTFtime](https://ctftime.org/event/1084/tasks/) |
 | [CSAW 2020 Quals](CSAW/2020/Quals) | [CTFtime](https://ctftime.org/event/1079) | [CTFtime](https://ctftime.org/event/1079/tasks/) |
 | [CONFidence 2020 Finals](CONFidence/2020/Finals) | [CTFtime](https://ctftime.org/event/1090) | [CTFtime](https://ctftime.org/event/1090/tasks/) |
 | [ALLES 2020](ALLES/2020) | [CTFtime](https://ctftime.org/event/1091) | [CTFtime](https://ctftime.org/event/1091/tasks/) |
