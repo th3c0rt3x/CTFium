@@ -2,6 +2,7 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [N1CTF 2020](N1CTF/2020) | [CTFtime](https://ctftime.org/event/1099) | [CTFtime](https://ctftime.org/event/1099/tasks/) |
 | [SECCON 2020 Quals](SECCON/2020/Quals) | [CTFtime](https://ctftime.org/event/1119) | [CTFtime](https://ctftime.org/event/1119/tasks/) |
 | [BSidesDelhi 2020](BSidesDelhi/2020) | [CTFtime](https://ctftime.org/event/1158) | [CTFtime](https://ctftime.org/event/1158/tasks/) |
 | [DamCTF 2020](DamCTF/2020) | [CTFtime](https://ctftime.org/event/1076) | [CTFtime](https://ctftime.org/event/1076/tasks/) |
