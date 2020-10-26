@@ -2,6 +2,10 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [Hack.lu 2020](Hack.lu/2020) | [CTFtime](https://ctftime.org/event/1142) | [CTFtime](https://ctftime.org/event/1142/tasks/) |
+| [HackTheVote 2020](HackTheVote/2020) | [CTFtime](https://ctftime.org/event/1017) | [CTFtime](https://ctftime.org/event/1017/tasks/) |
+| [MetaCTF 2020](MetaCTF/2020) | [CTFtime](https://ctftime.org/event/1106) | [CTFtime](https://ctftime.org/event/1106/tasks/) |
+| [SyskronSecurity 2020](SyskronSecurity/2020) | [CTFtime](https://ctftime.org/event/1148) | [CTFtime](https://ctftime.org/event/1148/tasks/) |
 | [N1CTF 2020](N1CTF/2020) | [CTFtime](https://ctftime.org/event/1099) | [CTFtime](https://ctftime.org/event/1099/tasks/) |
 | [SECCON 2020 Quals](SECCON/2020/Quals) | [CTFtime](https://ctftime.org/event/1119) | [CTFtime](https://ctftime.org/event/1119/tasks/) |
 | [BSidesDelhi 2020](BSidesDelhi/2020) | [CTFtime](https://ctftime.org/event/1158) | [CTFtime](https://ctftime.org/event/1158/tasks/) |
