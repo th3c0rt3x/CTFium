@@ -2,6 +2,10 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [NACTF 2020](NACTF/2020) | [CTFtime](https://ctftime.org/event/1157) | [CTFtime](https://ctftime.org/event/1157/tasks/) |
+| [CyberYoddha 2020](CyberYoddha/2020) | [CTFtime](https://ctftime.org/event/1169) | [CTFtime](https://ctftime.org/event/1169/tasks/) |
+| [CyberSecurityRumble 2020](CyberSecurityRumble/2020) | [CTFtime](https://ctftime.org/event/1057) | [CTFtime](https://ctftime.org/event/1057/tasks/) |
+| [RaziCTF 2020](RaziCTF/2020) | [CTFtime](https://ctftime.org/event/1167) | [CTFtime](https://ctftime.org/event/1167/tasks/) |
 | [Hack.lu 2020](Hack.lu/2020) | [CTFtime](https://ctftime.org/event/1142) | [CTFtime](https://ctftime.org/event/1142/tasks/) |
 | [HackTheVote 2020](HackTheVote/2020) | [CTFtime](https://ctftime.org/event/1017) | [CTFtime](https://ctftime.org/event/1017/tasks/) |
 | [MetaCTF 2020](MetaCTF/2020) | [CTFtime](https://ctftime.org/event/1106) | [CTFtime](https://ctftime.org/event/1106/tasks/) |
