@@ -2,6 +2,8 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [Sunshine 2020](Sunshine/2020) | [CTFtime](https://ctftime.org/event/992) | [CTFtime](https://ctftime.org/event/992/tasks/) |
+| [KipodAfterFree 2020](KipodAfterFree/2020) | [CTFtime](https://ctftime.org/event/1133) | [CTFtime](https://ctftime.org/event/1133/tasks/) |
 | [NACTF 2020](NACTF/2020) | [CTFtime](https://ctftime.org/event/1157) | [CTFtime](https://ctftime.org/event/1157/tasks/) |
 | [CyberYoddha 2020](CyberYoddha/2020) | [CTFtime](https://ctftime.org/event/1169) | [CTFtime](https://ctftime.org/event/1169/tasks/) |
 | [CyberSecurityRumble 2020](CyberSecurityRumble/2020) | [CTFtime](https://ctftime.org/event/1057) | [CTFtime](https://ctftime.org/event/1057/tasks/) |
