@@ -2,6 +2,9 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [Square 2020](Square/2020) | [CTFtime](https://ctftime.org/event/1174) | [CTFtime](https://ctftime.org/event/1174/tasks/) |
+| [Layer7 2020](Layer7/2020) | [CTFtime](https://ctftime.org/event/1179) | [CTFtime](https://ctftime.org/event/1179/tasks/) |
+| [Balsn 2020](Balsn/2020) | [CTFtime](https://ctftime.org/event/1122) | [CTFtime](https://ctftime.org/event/1122/tasks/) |
 | [Sunshine 2020](Sunshine/2020) | [CTFtime](https://ctftime.org/event/992) | [CTFtime](https://ctftime.org/event/992/tasks/) |
 | [KipodAfterFree 2020](KipodAfterFree/2020) | [CTFtime](https://ctftime.org/event/1133) | [CTFtime](https://ctftime.org/event/1133/tasks/) |
 | [NACTF 2020](NACTF/2020) | [CTFtime](https://ctftime.org/event/1157) | [CTFtime](https://ctftime.org/event/1157/tasks/) |
