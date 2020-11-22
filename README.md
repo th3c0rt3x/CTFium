@@ -2,6 +2,7 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [Dragon 2020](Dragon/2020) | [CTFtime](https://ctftime.org/event/1082) | [CTFtime](https://ctftime.org/event/1082/tasks/) |
 | [LedgerDonjon 2020](LedgerDonjon/2020) | [CTFtime](https://ctftime.org/event/1173) | [CTFtime](https://ctftime.org/event/1173/tasks/) |
 | [m0leCon 2020 Finals](m0leCon/2020/Finals) | [CTFtime](https://ctftime.org/event/1135) | [CTFtime](https://ctftime.org/event/1135/tasks/) |
 | [Square 2020](Square/2020) | [CTFtime](https://ctftime.org/event/1174) | [CTFtime](https://ctftime.org/event/1174/tasks/) |
