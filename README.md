@@ -2,7 +2,8 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
-| [kksctf 2020](kksctf/2020) | [CTFtime](https://ctftime.org/event/1112) | [CTFtime](https://ctftime.org/event/1112/tasks/) |
+| [ASIS 2020 Finals](ASIS/2020/Finals) | [CTFtime](https://ctftime.org/event/1111) | [CTFtime](https://ctftime.org/event/1111/tasks/) |
+| [X-MAS 2020](X-MAS/2020) | [CTFtime](https://ctftime.org/event/1209) | [CTFtime](https://ctftime.org/event/1209/tasks/) |
 | [kksctf 2020](kksctf/2020) | [CTFtime](https://ctftime.org/event/1112) | [CTFtime](https://ctftime.org/event/1112/tasks/) |
 | [boot2root 2020](boot2root/2020) | [CTFtime](https://ctftime.org/event/1202) | [CTFtime](https://ctftime.org/event/1202/tasks/) |
 | [DefCamp 2020](DefCamp/2020) | [CTFtime](https://ctftime.org/event/1182) | [CTFtime](https://ctftime.org/event/1182/tasks/) |
@@ -157,7 +158,7 @@ Collection of CTF pwn challenges.
 | [ASIS 2019 Quals](ASIS/2019/Quals) | [CTFtime](https://ctftime.org/event/732) | [CTFtime](https://ctftime.org/event/732/tasks/) |
 | [ASIS 2019 Finals](ASIS/2019/Finals) | [CTFtime](https://ctftime.org/event/805) | [CTFtime](https://ctftime.org/event/805/tasks/) |
 | [0CTF/TCTF 2019 Quals](0CTF/2019/Quals) | [CTFtime](https://ctftime.org/event/736) | [CTFtime](https://ctftime.org/event/736/tasks/) |
-| [XMAS 2018](XMAS/2018) | [CTFtime](https://ctftime.org/event/724) | [CTFtime](https://ctftime.org/event/724/tasks/) |
+| [X-MAS 2018](X-MAS/2018) | [CTFtime](https://ctftime.org/event/724) | [CTFtime](https://ctftime.org/event/724/tasks/) |
 | [WhiteHat 2018 Quals](WhiteHat/2018/Quals) | [CTFtime](https://ctftime.org/event/656) | [CTFtime](https://ctftime.org/event/656/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/WhiteHat/2018/Quals) |
 | [WPICTF 2018](WPICTF/2018) | [CTFtime](https://ctftime.org/event/600) | [CTFtime](https://ctftime.org/event/600/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/WPICTF/2018) |
 | [VolgaCTF 2018 Quals](VolgaCTF/2018/Quals) | [CTFtime](https://ctftime.org/event/539) | [CTFtime](https://ctftime.org/event/539/tasks/) |
