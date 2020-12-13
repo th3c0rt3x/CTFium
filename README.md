@@ -2,6 +2,8 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [kksctf 2020](kksctf/2020) | [CTFtime](https://ctftime.org/event/1112) | [CTFtime](https://ctftime.org/event/1112/tasks/) |
+| [kksctf 2020](kksctf/2020) | [CTFtime](https://ctftime.org/event/1112) | [CTFtime](https://ctftime.org/event/1112/tasks/) |
 | [boot2root 2020](boot2root/2020) | [CTFtime](https://ctftime.org/event/1202) | [CTFtime](https://ctftime.org/event/1202/tasks/) |
 | [DefCamp 2020](DefCamp/2020) | [CTFtime](https://ctftime.org/event/1182) | [CTFtime](https://ctftime.org/event/1182/tasks/) |
 | [pbctf 2020](pbctf/2020) | [CTFtime](https://ctftime.org/event/1121) | [CTFtime](https://ctftime.org/event/1121/tasks/) |
