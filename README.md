@@ -2,6 +2,7 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [TetCTF 2021](TetCTF/2021) | [CTFtime](https://ctftime.org/event/1213) | [CTFtime](https://ctftime.org/event/1213/tasks/) |
 | [HXP 2020](HXP/2020) | [CTFtime](https://ctftime.org/event/1134) | [CTFtime](https://ctftime.org/event/1134/tasks/) |
 | [VULNCON 2020](VULNCON/2020) | [CTFtime](https://ctftime.org/event/1149) | [CTFtime](https://ctftime.org/event/1149/tasks/) |
 | [BSidesAlgiers 2020 Quals](BSidesAlgiers/2020/Quals) | [CTFtime](https://ctftime.org/event/1220) | [CTFtime](https://ctftime.org/event/1220/tasks/) |
