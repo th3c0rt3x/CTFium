@@ -2,6 +2,8 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [StarCTF 2021](StarCTF/2021) | [CTFtime](https://ctftime.org/event/1242) | [CTFtime](https://ctftime.org/event/1242/tasks/) |
+| [BambooFox 2021](BambooFox/2021) | [CTFtime](https://ctftime.org/event/1234) | [CTFtime](https://ctftime.org/event/1234/tasks/) |
 | [0xL4ugh 2021](0xL4ugh/2021) | [CTFtime](https://ctftime.org/event/1248) | [CTFtime](https://ctftime.org/event/1248/tasks/) |
 | [RealWorldCTF 2021](RealWorldCTF/2021) | [CTFtime](https://ctftime.org/event/1198) | [CTFtime](https://ctftime.org/event/1198/tasks/) |
 | [TetCTF 2021](TetCTF/2021) | [CTFtime](https://ctftime.org/event/1213) | [CTFtime](https://ctftime.org/event/1213/tasks/) |
