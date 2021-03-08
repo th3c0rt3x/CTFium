@@ -2,6 +2,7 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [BSidesSF 2021](BSidesSF/2021) | [CTFtime](https://ctftime.org/event/1299) | [CTFtime](https://ctftime.org/event/1299/tasks/) |
 | [zer0pts 2021](zer0pts/2021) | [CTFtime](https://ctftime.org/event/1256) | [CTFtime](https://ctftime.org/event/1256/tasks/) |
 | [Aero 2021](Aero/2021) | [CTFtime](https://ctftime.org/event/1224) | [CTFtime](https://ctftime.org/event/1224/tasks/) |
 | [darkCON 2021](darkCON/2021) | [CTFtime](https://ctftime.org/event/1250) | [CTFtime](https://ctftime.org/event/1250/tasks/) |
