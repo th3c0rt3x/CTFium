@@ -2,6 +2,8 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [BreakTheSyntax 2021](BreakTheSyntax/2021) | [CTFtime](https://ctftime.org/event/1303) | [CTFtime](https://ctftime.org/event/1303/tasks/) |
+| [DaVinci 2021](DaVinci/2021) | [CTFtime](https://ctftime.org/event/1296) | [CTFtime](https://ctftime.org/event/1296/tasks/) |
 | [BSidesSF 2021](BSidesSF/2021) | [CTFtime](https://ctftime.org/event/1299) | [CTFtime](https://ctftime.org/event/1299/tasks/) |
 | [zer0pts 2021](zer0pts/2021) | [CTFtime](https://ctftime.org/event/1256) | [CTFtime](https://ctftime.org/event/1256/tasks/) |
 | [Aero 2021](Aero/2021) | [CTFtime](https://ctftime.org/event/1224) | [CTFtime](https://ctftime.org/event/1224/tasks/) |
