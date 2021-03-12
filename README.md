@@ -2,6 +2,7 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [NahamCon 2021](NahamCon/2021) | [CTFtime](https://ctftime.org/event/1281) | [CTFtime](https://ctftime.org/event/1281/tasks/) |
 | [BreakTheSyntax 2021](BreakTheSyntax/2021) | [CTFtime](https://ctftime.org/event/1303) | [CTFtime](https://ctftime.org/event/1303/tasks/) |
 | [DaVinci 2021](DaVinci/2021) | [CTFtime](https://ctftime.org/event/1296) | [CTFtime](https://ctftime.org/event/1296/tasks/) |
 | [BSidesSF 2021](BSidesSF/2021) | [CTFtime](https://ctftime.org/event/1299) | [CTFtime](https://ctftime.org/event/1299/tasks/) |
