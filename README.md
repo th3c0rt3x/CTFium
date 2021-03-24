@@ -2,6 +2,8 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [LINE 2021](LINE/2021) | [CTFtime](https://ctftime.org/event/1269) | [CTFtime](https://ctftime.org/event/1269/tasks/) |
+| [BlueHens 2021](BlueHens/2021) | [CTFtime](https://ctftime.org/event/1298) | [CTFtime](https://ctftime.org/event/1298/tasks/) |
 | [vishwa 2021](vishwa/2021) | [CTFtime](https://ctftime.org/event/1286) | [CTFtime](https://ctftime.org/event/1286/tasks/) |
 | [UTCTF 2021](UTCTF/2021) | [CTFtime](https://ctftime.org/event/1177) | [CTFtime](https://ctftime.org/event/1177/tasks/) |
 | [NahamCon 2021](NahamCon/2021) | [CTFtime](https://ctftime.org/event/1281) | [CTFtime](https://ctftime.org/event/1281/tasks/) |
