@@ -2,6 +2,7 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [VolgaCTF 2021 Quals](VolgaCTF/2021/Quals) | [CTFtime](https://ctftime.org/event/1229) | [CTFtime](https://ctftime.org/event/1229/tasks/) |
 | [UMass 2021](UMass/2021) | [CTFtime](https://ctftime.org/event/1282) | [CTFtime](https://ctftime.org/event/1282/tasks/) |
 | [Securinets 2021 Quals](Securinets/2021/Quals) | [CTFtime](https://ctftime.org/event/1308) | [CTFtime](https://ctftime.org/event/1308/tasks/) |
 | [LINE 2021](LINE/2021) | [CTFtime](https://ctftime.org/event/1269) | [CTFtime](https://ctftime.org/event/1269/tasks/) |
