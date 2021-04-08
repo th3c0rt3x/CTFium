@@ -4,7 +4,7 @@ Collection of CTF pwn challenges.
 |--------------------------|-----------|--------------|
 | [b01lers 2021](b01lers/2021) | [CTFtime](https://ctftime.org/event/1259) | [CTFtime](https://ctftime.org/event/1259/tasks/) |
 | [Shakti 2021](Shakti/2021) | [CTFtime](https://ctftime.org/event/1251) | [CTFtime](https://ctftime.org/event/1251/tasks/) |
-| [angstromCTF 2021](angstromCTF/2021) | [CTFtime](https://ctftime.org/event/1265) | [CTFtime](https://ctftime.org/event/1265/tasks/) |
+| [angstrom 2021](angstrom/2021) | [CTFtime](https://ctftime.org/event/1265) | [CTFtime](https://ctftime.org/event/1265/tasks/) |
 | [FooBar 2021](FooBar/2021) | [CTFtime](https://ctftime.org/event/1322) | [CTFtime](https://ctftime.org/event/1322/tasks/) |
 | [VolgaCTF 2021 Quals](VolgaCTF/2021/Quals) | [CTFtime](https://ctftime.org/event/1229) | [CTFtime](https://ctftime.org/event/1229/tasks/) |
 | [UMass 2021](UMass/2021) | [CTFtime](https://ctftime.org/event/1282) | [CTFtime](https://ctftime.org/event/1282/tasks/) |
@@ -117,7 +117,7 @@ Collection of CTF pwn challenges.
 | [UMDCTF 2020](UMDCTF/2020) | [CTFtime](https://ctftime.org/event/1040) | [CTFtime](https://ctftime.org/event/1040/tasks/) |
 | [PlaidCTF 2020](PlaidCTF/2020) | [CTFtime](https://ctftime.org/event/936) | [CTFtime](https://ctftime.org/event/936/tasks/) |
 | [WPICTF 2020](WPICTF/2020) | [CTFtime](https://ctftime.org/event/913) | [CTFtime](https://ctftime.org/event/913/tasks/) |
-| [angstromCTF 2020](angstromCTF/2020) | [CTFtime](https://ctftime.org/event/982) | [CTFtime](https://ctftime.org/event/982/tasks/) |
+| [angstrom 2020](angstrom/2020) | [CTFtime](https://ctftime.org/event/982) | [CTFtime](https://ctftime.org/event/982/tasks/) |
 | [b01lers 2020](b01lers/2020) | [CTFtime](https://ctftime.org/event/974) | [CTFtime](https://ctftime.org/event/974/tasks/) |
 | [zer0pts 2020](zer0pts/2020) | [CTFtime](https://ctftime.org/event/1006) | [CTFtime](https://ctftime.org/event/1006/tasks/) |
 | [WhiteHat 2020 Quals](WhiteHat/2020/Quals) | [CTFtime](https://ctftime.org/event/942) | [CTFtime](https://ctftime.org/event/942/tasks/) |
@@ -140,7 +140,7 @@ Collection of CTF pwn challenges.
 | [BSidesSF 2020](BSidesSF/2020) | [CTFtime](https://ctftime.org/event/977) | [CTFtime](https://ctftime.org/event/977/tasks/) |
 | [AUCTF 2020](AUCTF/2020) | [CTFtime](https://ctftime.org/event1020/) | [CTFtime](https://ctftime.org/event1020//tasks/) |
 | [AUCTF 2020](AUCTF/2020) | [CTFtime](https://ctftime.org/event/1020) | [CTFtime](https://ctftime.org/event/1020/tasks/) |
-| [angstromCTF 2019](angstromCTF/2019) | [CTFtime](https://ctftime.org/event/774) | [CTFtime](https://ctftime.org/event/774/tasks/) |
+| [angstrom 2019](angstrom/2019) | [CTFtime](https://ctftime.org/event/774) | [CTFtime](https://ctftime.org/event/774/tasks/) |
 | [watevrCTF 2019](watevrCTF/2019) | [CTFtime](https://ctftime.org/event/893) | [CTFtime](https://ctftime.org/event/893/tasks/) |
 | [kksctf 2019](kksctf/2019) | [CTFtime](https://ctftime.org/event/874) | [CTFtime](https://ctftime.org/event/874/tasks/) |
 | [justCTF 2019](justCTF/2019) | [CTFtime](https://ctftime.org/event/943) | [CTFtime](https://ctftime.org/event/943/tasks/) |
