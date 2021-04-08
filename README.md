@@ -2,6 +2,7 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [Pragyan 2021](Pragyan/2021) | [CTFtime](https://ctftime.org/event/1330) | [CTFtime](https://ctftime.org/event/1330/tasks/) |
 | [b01lers 2021](b01lers/2021) | [CTFtime](https://ctftime.org/event/1259) | [CTFtime](https://ctftime.org/event/1259/tasks/) |
 | [Shakti 2021](Shakti/2021) | [CTFtime](https://ctftime.org/event/1251) | [CTFtime](https://ctftime.org/event/1251/tasks/) |
 | [angstrom 2021](angstrom/2021) | [CTFtime](https://ctftime.org/event/1265) | [CTFtime](https://ctftime.org/event/1265/tasks/) |
