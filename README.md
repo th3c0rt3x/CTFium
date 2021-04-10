@@ -2,6 +2,7 @@ Collection of CTF challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [RITSEC 2021](RITSEC/2021) | [CTFtime](https://ctftime.org/event/1309) | [CTFtime](https://ctftime.org/event/1309/tasks/) |
 | [MidnightSun 2021 Quals](MidnightSun/2021/Quals) | [CTFtime](https://ctftime.org/event/1139) | [CTFtime](https://ctftime.org/event/1139/tasks/) |
 | [BSidesCanberra 2021](BSidesCanberra/2021) | [CTFtime](https://ctftime.org/event/1314) | [CTFtime](https://ctftime.org/event/1314/tasks/) |
 | [Pragyan 2021](Pragyan/2021) | [CTFtime](https://ctftime.org/event/1330) | [CTFtime](https://ctftime.org/event/1330/tasks/) |
