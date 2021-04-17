@@ -2,6 +2,7 @@ Collection of CTF challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [UMDCTF 2021](UMDCTF/2021) | [CTFtime](https://ctftime.org/event/1288) | [CTFtime](https://ctftime.org/event/1288/tasks/) |
 | [PlaidCTF 2021](PlaidCTF/2021) | [CTFtime](https://ctftime.org/event/1199) | [CTFtime](https://ctftime.org/event/1199/tasks/) |
 | [HackPack 2021](HackPack/2021) | [CTFtime](https://ctftime.org/event/1307) | [CTFtime](https://ctftime.org/event/1307/tasks/) |
 | [RITSEC 2021](RITSEC/2021) | [CTFtime](https://ctftime.org/event/1309) | [CTFtime](https://ctftime.org/event/1309/tasks/) |
