@@ -2,10 +2,10 @@ Collection of CTF challenges.
 
 | CTF                      | Event     | Event        | Writeups     |
 |--------------------------|-----------|--------------|--------------|
-| [0CTF/TCTF](0CTF/TCTF) | [2018 Finals](0CTF/2018/Finals) |  [CTFtime](https://ctftime.org/event/558)  |  [CTFtime](https://ctftime.org/event/558/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Finals)  |
-| [0CTF/TCTF](0CTF/TCTF) | [2018 Quals](0CTF/2018/Quals) |  [CTFtime](https://ctftime.org/event/557)  |  [CTFtime](https://ctftime.org/event/557/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Quals)  |
-| [0CTF/TCTF](0CTF/TCTF) | [2019 Quals](0CTF/2019/Quals) |  [CTFtime](https://ctftime.org/event/736)  |  [CTFtime](https://ctftime.org/event/736/tasks/)  |
-| [0CTF/TCTF](0CTF/TCTF) | [2020 Quals](0CTF/2020/Quals) |  [CTFtime](https://ctftime.org/event/1026)  |  [CTFtime](https://ctftime.org/event/1026/tasks/)  |
+| [0CTF](0CTF) | [2018 Finals](0CTF/2018/Finals) |  [CTFtime](https://ctftime.org/event/558)  |  [CTFtime](https://ctftime.org/event/558/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Finals)  |
+| [0CTF](0CTF) | [2018 Quals](0CTF/2018/Quals) |  [CTFtime](https://ctftime.org/event/557)  |  [CTFtime](https://ctftime.org/event/557/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Quals)  |
+| [0CTF](0CTF) | [2019 Quals](0CTF/2019/Quals) |  [CTFtime](https://ctftime.org/event/736)  |  [CTFtime](https://ctftime.org/event/736/tasks/)  |
+| [0CTF](0CTF) | [2020 Quals](0CTF/2020/Quals) |  [CTFtime](https://ctftime.org/event/1026)  |  [CTFtime](https://ctftime.org/event/1026/tasks/)  |
 | [0CTF](0CTF) | [2017 Quals](0CTF/2017/Quals) |  [CTFtime](https://ctftime.org/event/402)  |  [CTFtime](https://ctftime.org/event/402/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2017/Quals)  |
 | [0x41414141](0x41414141) | [2021](0x41414141/2021) |  [CTFtime](https://ctftime.org/event/1249)  |  [CTFtime](https://ctftime.org/event/1249/tasks/)  |
 | [0xL4ugh](0xL4ugh) | [2021](0xL4ugh/2021) |  [CTFtime](https://ctftime.org/event/1248)  |  [CTFtime](https://ctftime.org/event/1248/tasks/)  |
@@ -168,7 +168,7 @@ Collection of CTF challenges.
 | [RealWorldCTF](RealWorldCTF) | [2019 Quals](RealWorldCTF/2019/Quals) |  [CTFtime](https://ctftime.org/event/841)  |  [CTFtime](https://ctftime.org/event/841/tasks/)  |
 | [RealWorldCTF](RealWorldCTF) | [2021](RealWorldCTF/2021) |  [CTFtime](https://ctftime.org/event/1198)  |  [CTFtime](https://ctftime.org/event/1198/tasks/)  |
 | [Rooters](Rooters) | [2019](Rooters/2019) |  [CTFtime](https://ctftime.org/event/886)  |  [CTFtime](https://ctftime.org/event/886/tasks/)  |
-| [SCTF/XCTF](SCTF/XCTF) | [2020](SCTF/2020) |  [CTFtime](https://ctftime.org/event/1068)  |  [CTFtime](https://ctftime.org/event/1068/tasks/)  |
+| [SCTF](SCTF) | [2020](SCTF/2020) |  [CTFtime](https://ctftime.org/event/1068)  |  [CTFtime](https://ctftime.org/event/1068/tasks/)  |
 | [SECCON](SECCON) | [2017 Quals](SECCON/2017/Quals) |  [CTFtime](https://ctftime.org/event/512)  |  [CTFtime](https://ctftime.org/event/512/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/SECCON/2017/Quals)  |
 | [SECCON](SECCON) | [2018 Quals](SECCON/2018/Quals) |  [CTFtime](https://ctftime.org/event/683)  |  [CTFtime](https://ctftime.org/event/683/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/SECCON/2018/Quals)  |
 | [SECCON](SECCON) | [2020 Quals](SECCON/2020/Quals) |  [CTFtime](https://ctftime.org/event/1119)  |  [CTFtime](https://ctftime.org/event/1119/tasks/)  |
