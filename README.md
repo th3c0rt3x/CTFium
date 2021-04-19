@@ -14,6 +14,8 @@ Collection of CTF challenges.
         </tr>
         <tr>
             <td>2021</td>
+        </tr>
+        <tr>
             <td>2019</td>
         </tr>
     </tbody>
