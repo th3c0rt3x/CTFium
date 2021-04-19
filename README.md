@@ -11,12 +11,12 @@ Collection of CTF challenges.
     <tbody>
         <tr>
             <td rowspan=2>Aero</td>
-        </tr>
-        <tr>
             <td>2021</td>
+            <td>CTFtime</td>
         </tr>
         <tr>
             <td>2019</td>
+            <td>CTFtime</td>
         </tr>
     </tbody>
 </table>
