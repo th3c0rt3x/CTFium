@@ -10,7 +10,7 @@ Collection of CTF challenges.
     </thead>
     <tbody>
         <tr>
-            <td rowspan=2>[Aero](Aero)</td>
+            <td rowspan=2><a href="Aero">Aero<a></td>
             <td>2021</td>
             <td>CTFtime</td>
         </tr>
