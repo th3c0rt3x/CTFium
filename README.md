@@ -1,26 +1,5 @@
 Collection of CTF challenges.
 
-<table>
-    <thead>
-        <tr>
-            <th>CTF</th>
-            <th>Event</th>
-            <th>Writeups</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=2><a href="Aero">Aero<a></td>
-            <td>2021</td>
-            <td>CTFtime</td>
-        </tr>
-        <tr>
-            <td>2019</td>
-            <td>CTFtime</td>
-        </tr>
-    </tbody>
-</table>
-
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
 | [0CTF](0CTF) | [2020 Quals](0CTF/2020/Quals) | [CTFtime](https://ctftime.org/event/1026/tasks/) |
