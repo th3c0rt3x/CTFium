@@ -3,26 +3,18 @@ Collection of CTF challenges.
 <table>
     <thead>
         <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
+            <th>CTF</th>
+            <th>Event</th>
+            <th>Writeups</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
+            <td rowspan=2>Aero</td>
         </tr>
         <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
+            <td>2021</td>
+            <td>2019</td>
         </tr>
     </tbody>
 </table>
@@ -30,10 +22,10 @@ Collection of CTF challenges.
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
 | [0CTF](0CTF) | [2020 Quals](0CTF/2020/Quals) | [CTFtime](https://ctftime.org/event/1026/tasks/) |
-|              | [2019 Quals](0CTF/2019/Quals) | [CTFtime](https://ctftime.org/event/736/tasks/) |
-|              | [2018 Finals](0CTF/2018/Finals) | [CTFtime](https://ctftime.org/event/558/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Finals) |
-|              | [2018 Quals](0CTF/2018/Quals) | [CTFtime](https://ctftime.org/event/557/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Quals) |
-|              | [2017 Quals](0CTF/2017/Quals) | [CTFtime](https://ctftime.org/event/402/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2017/Quals) |
+| [0CTF](0CTF) | [2019 Quals](0CTF/2019/Quals) | [CTFtime](https://ctftime.org/event/736/tasks/) |
+| [0CTF](0CTF) | [2018 Finals](0CTF/2018/Finals) | [CTFtime](https://ctftime.org/event/558/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Finals) |
+| [0CTF](0CTF) | [2018 Quals](0CTF/2018/Quals) | [CTFtime](https://ctftime.org/event/557/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Quals) |
+| [0CTF](0CTF) | [2017 Quals](0CTF/2017/Quals) | [CTFtime](https://ctftime.org/event/402/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2017/Quals) |
 | [0x41414141](0x41414141) | [2021](0x41414141/2021) | [CTFtime](https://ctftime.org/event/1249/tasks/) |
 | [0xL4ugh](0xL4ugh) | [2021](0xL4ugh/2021) | [CTFtime](https://ctftime.org/event/1248/tasks/) |
 | [3kCTF](3kCTF) | [2020](3kCTF/2020) | [CTFtime](https://ctftime.org/event/1077/tasks/) |
