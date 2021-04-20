@@ -1,1 +1,1 @@
-[Great Lakes Security Conference CTF](https://ctftime.org/event/1341)
+<a href="https://ctftime.org/event/1341">Great Lakes Security Conference CTF</a>

@@ -1,1 +1,1 @@
-[Great Lakes Security Conference CTF](https://ctftime.org/ctf/616)
+<a href="https://ctftime.org/ctf/616">Great Lakes Security Conference CTF</a>
