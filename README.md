@@ -4,9 +4,9 @@ Collection of CTF challenges.
 |--------------------------|-----------|--------------|
 | [0CTF](0CTF) | [2020 Quals](0CTF/2020/Quals) | [CTFtime](https://ctftime.org/event/1026/tasks/) |
 | [0CTF](0CTF) | [2019 Quals](0CTF/2019/Quals) | [CTFtime](https://ctftime.org/event/736/tasks/) |
-| [0CTF](0CTF) | [2018 Finals](0CTF/2018/Finals) | [CTFtime](https://ctftime.org/event/558/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Finals) |
-| [0CTF](0CTF) | [2018 Quals](0CTF/2018/Quals) | [CTFtime](https://ctftime.org/event/557/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Quals) |
-| [0CTF](0CTF) | [2017 Quals](0CTF/2017/Quals) | [CTFtime](https://ctftime.org/event/402/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2017/Quals) |
+| [0CTF](0CTF) | [2018 Finals](0CTF/2018/Finals) | [CTFtime](https://ctftime.org/event/558/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/0CTF/2018/Finals) |
+| [0CTF](0CTF) | [2018 Quals](0CTF/2018/Quals) | [CTFtime](https://ctftime.org/event/557/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/0CTF/2018/Quals) |
+| [0CTF](0CTF) | [2017 Quals](0CTF/2017/Quals) | [CTFtime](https://ctftime.org/event/402/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/0CTF/2017/Quals) |
 | [0x41414141](0x41414141) | [2021](0x41414141/2021) | [CTFtime](https://ctftime.org/event/1249/tasks/) |
 | [0xL4ugh](0xL4ugh) | [2021](0xL4ugh/2021) | [CTFtime](https://ctftime.org/event/1248/tasks/) |
 | [3kCTF](3kCTF) | [2020](3kCTF/2020) | [CTFtime](https://ctftime.org/event/1077/tasks/) |
@@ -15,8 +15,8 @@ Collection of CTF challenges.
 | [ASIS](ASIS) | [2020 Quals](ASIS/2020/Quals) | [CTFtime](https://ctftime.org/event/964/tasks/) |
 | [ASIS](ASIS) | [2019 Finals](ASIS/2019/Finals) | [CTFtime](https://ctftime.org/event/805/tasks/) |
 | [ASIS](ASIS) | [2019 Quals](ASIS/2019/Quals) | [CTFtime](https://ctftime.org/event/732/tasks/) |
-| [ASIS](ASIS) | [2018 Finals](ASIS/2018/Finals) | [CTFtime](https://ctftime.org/event/620/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/ASIS/2018/Finals) |
-| [ASIS](ASIS) | [2018 Quals](ASIS/2018/Quals) | [CTFtime](https://ctftime.org/event/568/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/ASIS/2018/Quals) |
+| [ASIS](ASIS) | [2018 Finals](ASIS/2018/Finals) | [CTFtime](https://ctftime.org/event/620/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/ASIS/2018/Finals) |
+| [ASIS](ASIS) | [2018 Quals](ASIS/2018/Quals) | [CTFtime](https://ctftime.org/event/568/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/ASIS/2018/Quals) |
 | [ASIS](ASIS) | [2017 Quals](ASIS/2017/Quals) | [CTFtime](https://ctftime.org/event/364/tasks/) |
 | [AUCTF](AUCTF) | [2020](AUCTF/2020) | [CTFtime](https://ctftime.org/event/1020/tasks/) |
 | [Aero](Aero) | [2021](Aero/2021) | [CTFtime](https://ctftime.org/event/1224/tasks/) |
@@ -27,10 +27,10 @@ Collection of CTF challenges.
 | [BSidesBOS](BSidesBOS) | [2020](BSidesBOS/2020) | [CTFtime](https://ctftime.org/event/1125/tasks/) |
 | [BSidesCanberra](BSidesCanberra) | [2021](BSidesCanberra/2021) | [CTFtime](https://ctftime.org/event/1314/tasks/) |
 | [BSidesDelhi](BSidesDelhi) | [2020](BSidesDelhi/2020) | [CTFtime](https://ctftime.org/event/1158/tasks/) |
-| [BSidesDelhi](BSidesDelhi) | [2018](BSidesDelhi/2018) | [CTFtime](https://ctftime.org/event/700/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/BSidesDelhi/2018) |
+| [BSidesDelhi](BSidesDelhi) | [2018](BSidesDelhi/2018) | [CTFtime](https://ctftime.org/event/700/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/BSidesDelhi/2018) |
 | [BSidesSF](BSidesSF) | [2021](BSidesSF/2021) | [CTFtime](https://ctftime.org/event/1299/tasks/) |
 | [BSidesSF](BSidesSF) | [2020](BSidesSF/2020) | [CTFtime](https://ctftime.org/event/977/tasks/) |
-| [BSidesSF](BSidesSF) | [2019](BSidesSF/2019) | [CTFtime](https://ctftime.org/event/753/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/BSidesSF/2019) |
+| [BSidesSF](BSidesSF) | [2019](BSidesSF/2019) | [CTFtime](https://ctftime.org/event/753/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/BSidesSF/2019) |
 | [BSidesTLV](BSidesTLV) | [2020](BSidesTLV/2020) | [CTFtime](https://ctftime.org/event/1078/tasks/) |
 | [Backdoor](Backdoor) | [2019](Backdoor/2019) | [CTFtime](https://ctftime.org/event/850/tasks/) |
 | [BalCCon](BalCCon) | [2020](BalCCon/2020) | [CTFtime](https://ctftime.org/event/1100/tasks/) |
@@ -46,21 +46,21 @@ Collection of CTF challenges.
 | [ByteCTF](ByteCTF) | [2020](ByteCTF/2020) | [CTFtime](https://ctftime.org/event/1114/tasks/) |
 | [C3CTF](C3CTF) | [2019](C3CTF/2019) | [CTFtime](https://ctftime.org/event/825/tasks/) |
 | [C3CTF](C3CTF) | [2018](C3CTF/2018) | [CTFtime](https://ctftime.org/event/718/tasks/) |
-| [C3CTF](C3CTF) | [2017](C3CTF/2017) | [CTFtime](https://ctftime.org/event/544/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/C3CTF/2017) |
+| [C3CTF](C3CTF) | [2017](C3CTF/2017) | [CTFtime](https://ctftime.org/event/544/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/C3CTF/2017) |
 | [COMPFEST](COMPFEST) | [2020](COMPFEST/2020) | [CTFtime](https://ctftime.org/event/1123/tasks/) |
 | [CONFidence](CONFidence) | [2020 Finals](CONFidence/2020/Finals) | [CTFtime](https://ctftime.org/event/1090/tasks/) |
 | [CONFidence](CONFidence) | [2020 Quals](CONFidence/2020/Quals) | [CTFtime](https://ctftime.org/event/960/tasks/) |
 | [CSAW](CSAW) | [2020 Quals](CSAW/2020/Quals) | [CTFtime](https://ctftime.org/event/1079/tasks/) |
 | [CSAW](CSAW) | [2019 Quals](CSAW/2019/Quals) | [CTFtime](https://ctftime.org/event/870/tasks/) |
-| [CSAW](CSAW) | [2018 Quals](CSAW/2018/Quals) | [CTFtime](https://ctftime.org/event/633/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/CSAW/2018/Quals) |
-| [CSAW](CSAW) | [2017 Quals](CSAW/2017/Quals) | [CTFtime](https://ctftime.org/event/488/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/CSAW/2017/Quals) |
+| [CSAW](CSAW) | [2018 Quals](CSAW/2018/Quals) | [CTFtime](https://ctftime.org/event/633/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/CSAW/2018/Quals) |
+| [CSAW](CSAW) | [2017 Quals](CSAW/2017/Quals) | [CTFtime](https://ctftime.org/event/488/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/CSAW/2017/Quals) |
 | [CSCML](CSCML) | [2020](CSCML/2020) | [CTFtime](https://ctftime.org/event/1071/tasks/) |
 | [CTFZone](CTFZone) | [2018 Quals](CTFZone/2018/Quals) | [CTFtime](https://ctftime.org/event/632/tasks/) |
 | [ChaosCommunicationCamp](ChaosCommunicationCamp) | [2019](ChaosCommunicationCamp/2019) | [CTFtime](https://ctftime.org/event/854/tasks/) |
 | [Chujowy](Chujowy) | [2020](Chujowy/2020) | [CTFtime](https://ctftime.org/event/1087/tasks/) |
 | [CodeBlue](CodeBlue) | [2018 Quals](CodeBlue/2018/Quals) | [CTFtime](https://ctftime.org/event/636/tasks/) |
 | [Codegate](Codegate) | [2019 Quals](Codegate/2019/Quals) | [CTFtime](https://ctftime.org/event/719/tasks/) |
-| [Codegate](Codegate) | [2018 Quals](Codegate/2018/Quals) | [CTFtime](https://ctftime.org/event/542/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/Codegate/2018/Quals) |
+| [Codegate](Codegate) | [2018 Quals](Codegate/2018/Quals) | [CTFtime](https://ctftime.org/event/542/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/Codegate/2018/Quals) |
 | [CyBRICS](CyBRICS) | [2020](CyBRICS/2020) | [CTFtime](https://ctftime.org/event/1012/tasks/) |
 | [CyberSecurityRumble](CyberSecurityRumble) | [2020](CyberSecurityRumble/2020) | [CTFtime](https://ctftime.org/event/1057/tasks/) |
 | [CyberYoddha](CyberYoddha) | [2020](CyberYoddha/2020) | [CTFtime](https://ctftime.org/event/1169/tasks/) |
@@ -93,7 +93,7 @@ Collection of CTF challenges.
 | [GoogleCTF](GoogleCTF) | [2018 Quals](GoogleCTF/2018/Quals) | [CTFtime](https://ctftime.org/event/623/tasks/) |
 | [HITCON](HITCON) | [2020 Quals](HITCON/2020/Quals) | [CTFtime](https://ctftime.org/event/1136/tasks/) |
 | [HITCON](HITCON) | [2019 Quals](HITCON/2019/Quals) | [CTFtime](https://ctftime.org/event/848/tasks/) |
-| [HITCON](HITCON) | [2018](HITCON/2018) | [CTFtime](https://ctftime.org/event/669/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/HITCON/2018) |
+| [HITCON](HITCON) | [2018](HITCON/2018) | [CTFtime](https://ctftime.org/event/669/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/HITCON/2018) |
 | [HITCON](HITCON) | [2017 Quals](HITCON/2017/Quals) | [CTFtime](https://ctftime.org/event/485/tasks/) |
 | [HSCTF](HSCTF) | [2020](HSCTF/2020) | [CTFtime](https://ctftime.org/event/939/tasks/) |
 | [HSCTF](HSCTF) | [2019](HSCTF/2019) | [CTFtime](https://ctftime.org/event/821/tasks/) |
@@ -101,7 +101,7 @@ Collection of CTF challenges.
 | [HXP](HXP) | [2018](HXP/2018) | [CTFtime](https://ctftime.org/event/647/tasks/) |
 | [Hack.lu](Hack.lu) | [2020](Hack.lu/2020) | [CTFtime](https://ctftime.org/event/1142/tasks/) |
 | [Hack.lu](Hack.lu) | [2019](Hack.lu/2019) | [CTFtime](https://ctftime.org/event/830/tasks/) |
-| [Hack.lu](Hack.lu) | [2018](Hack.lu/2018) | [CTFtime](https://ctftime.org/event/699/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/Hack.lu/2018) |
+| [Hack.lu](Hack.lu) | [2018](Hack.lu/2018) | [CTFtime](https://ctftime.org/event/699/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/Hack.lu/2018) |
 | [HackCon](HackCon) | [2018](HackCon/2018) | [CTFtime](https://ctftime.org/event/652/tasks/) |
 | [HackPack](HackPack) | [2021](HackPack/2021) | [CTFtime](https://ctftime.org/event/1307/tasks/) |
 | [HackPack](HackPack) | [2020](HackPack/2020) | [CTFtime](https://ctftime.org/event/1036/tasks/) |
@@ -120,7 +120,7 @@ Collection of CTF challenges.
 | [ISITDTU](ISITDTU) | [2018 Quals](ISITDTU/2018/Quals) | [CTFtime](https://ctftime.org/event/642/tasks/) |
 | [InCTF](InCTF) | [2020](InCTF/2020) | [CTFtime](https://ctftime.org/event/981/tasks/) |
 | [InCTF](InCTF) | [2019](InCTF/2019) | [CTFtime](https://ctftime.org/event/849/tasks/) |
-| [InCTF](InCTF) | [2018](InCTF/2018) | [CTFtime](https://ctftime.org/event/662/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/InCTF/2018) |
+| [InCTF](InCTF) | [2018](InCTF/2018) | [CTFtime](https://ctftime.org/event/662/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/InCTF/2018) |
 | [InsomniHack](InsomniHack) | [2019 Quals](InsomniHack/2019/Quals) | [CTFtime](https://ctftime.org/event/686/tasks/) |
 | [KasperskyCTF](KasperskyCTF) | [2018](KasperskyCTF/2018) | [CTFtime](https://ctftime.org/event/701/tasks/) |
 | [KipodAfterFree](KipodAfterFree) | [2020](KipodAfterFree/2020) | [CTFtime](https://ctftime.org/event/1133/tasks/) |
@@ -130,7 +130,7 @@ Collection of CTF challenges.
 | [Layer7](Layer7) | [2019](Layer7/2019) | [CTFtime](https://ctftime.org/event/895/tasks/) |
 | [LedgerDonjon](LedgerDonjon) | [2020](LedgerDonjon/2020) | [CTFtime](https://ctftime.org/event/1173/tasks/) |
 | [MCTF](MCTF) | [2020 Quals](MCTF/2020/Quals) | [CTFtime](https://ctftime.org/event/1138/tasks/) |
-| [MeePwn](MeePwn) | [2018 Quals](MeePwn/2018/Quals) | [CTFtime](https://ctftime.org/event/625/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/MeePwn/2018/Quals) |
+| [MeePwn](MeePwn) | [2018 Quals](MeePwn/2018/Quals) | [CTFtime](https://ctftime.org/event/625/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/MeePwn/2018/Quals) |
 | [MetaCTF](MetaCTF) | [2020](MetaCTF/2020) | [CTFtime](https://ctftime.org/event/1106/tasks/) |
 | [MidnightSun](MidnightSun) | [2021 Quals](MidnightSun/2021/Quals) | [CTFtime](https://ctftime.org/event/1139/tasks/) |
 | [MidnightSun](MidnightSun) | [2020 Quals](MidnightSun/2020/Quals) | [CTFtime](https://ctftime.org/event/935/tasks/) |
@@ -143,13 +143,13 @@ Collection of CTF challenges.
 | [NahamCon](NahamCon) | [2020](NahamCon/2020) | [CTFtime](https://ctftime.org/event/1067/tasks/) |
 | [NuitduHack](NuitduHack) | [2018 Quals](NuitduHack/2018/Quals) | [CTFtime](https://ctftime.org/event/583/tasks/) |
 | [NullconHackIM](NullconHackIM) | [2019](NullconHackIM/2019) | [CTFtime](https://ctftime.org/event/741/tasks/) |
-| [NullconHackIM](NullconHackIM) | [2018](NullconHackIM/2018) | [CTFtime](https://ctftime.org/event/566/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/NullconHackIM/2018) |
+| [NullconHackIM](NullconHackIM) | [2018](NullconHackIM/2018) | [CTFtime](https://ctftime.org/event/566/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/NullconHackIM/2018) |
 | [OverTheWireAdventBonanza](OverTheWireAdventBonanza) | [2018](OverTheWireAdventBonanza/2018) | [CTFtime](https://ctftime.org/event/721/tasks/) |
 | [P.W.N](P.W.N) | [2018](P.W.N/2018) | [CTFtime](https://ctftime.org/event/639/tasks/) |
 | [PlaidCTF](PlaidCTF) | [2021](PlaidCTF/2021) | [CTFtime](https://ctftime.org/event/1199/tasks/) |
 | [PlaidCTF](PlaidCTF) | [2020](PlaidCTF/2020) | [CTFtime](https://ctftime.org/event/936/tasks/) |
 | [PlaidCTF](PlaidCTF) | [2019](PlaidCTF/2019) | [CTFtime](https://ctftime.org/event/743/tasks/) |
-| [PlaidCTF](PlaidCTF) | [2018](PlaidCTF/2018) | [CTFtime](https://ctftime.org/event/617/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/PlaidCTF/2018) |
+| [PlaidCTF](PlaidCTF) | [2018](PlaidCTF/2018) | [CTFtime](https://ctftime.org/event/617/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/PlaidCTF/2018) |
 | [PoseidonCTF](PoseidonCTF) | [2020](PoseidonCTF/2020) | [CTFtime](https://ctftime.org/event/1049/tasks/) |
 | [Pragyan](Pragyan) | [2021](Pragyan/2021) | [CTFtime](https://ctftime.org/event/1330/tasks/) |
 | [Pragyan](Pragyan) | [2019](Pragyan/2019) | [CTFtime](https://ctftime.org/event/755/tasks/) |
@@ -159,7 +159,7 @@ Collection of CTF challenges.
 | [PwnThyBytes](PwnThyBytes) | [2019](PwnThyBytes/2019) | [CTFtime](https://ctftime.org/event/756/tasks/) |
 | [RCTF](RCTF) | [2020](RCTF/2020) | [CTFtime](https://ctftime.org/event/1045/tasks/) |
 | [RCTF](RCTF) | [2019](RCTF/2019) | [CTFtime](https://ctftime.org/event/812/tasks/) |
-| [RCTF](RCTF) | [2018](RCTF/2018) | [CTFtime](https://ctftime.org/event/624/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/RCTF/2018) |
+| [RCTF](RCTF) | [2018](RCTF/2018) | [CTFtime](https://ctftime.org/event/624/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/RCTF/2018) |
 | [RITSEC](RITSEC) | [2021](RITSEC/2021) | [CTFtime](https://ctftime.org/event/1309/tasks/) |
 | [RITSEC](RITSEC) | [2019](RITSEC/2019) | [CTFtime](https://ctftime.org/event/898/tasks/) |
 | [RITSEC](RITSEC) | [2018](RITSEC/2018) | [CTFtime](https://ctftime.org/event/682/tasks/) |
@@ -169,8 +169,8 @@ Collection of CTF challenges.
 | [Rooters](Rooters) | [2019](Rooters/2019) | [CTFtime](https://ctftime.org/event/886/tasks/) |
 | [SCTF](SCTF) | [2020](SCTF/2020) | [CTFtime](https://ctftime.org/event/1068/tasks/) |
 | [SECCON](SECCON) | [2020 Quals](SECCON/2020/Quals) | [CTFtime](https://ctftime.org/event/1119/tasks/) |
-| [SECCON](SECCON) | [2018 Quals](SECCON/2018/Quals) | [CTFtime](https://ctftime.org/event/683/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/SECCON/2018/Quals) |
-| [SECCON](SECCON) | [2017 Quals](SECCON/2017/Quals) | [CTFtime](https://ctftime.org/event/512/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/SECCON/2017/Quals) |
+| [SECCON](SECCON) | [2018 Quals](SECCON/2018/Quals) | [CTFtime](https://ctftime.org/event/683/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/SECCON/2018/Quals) |
+| [SECCON](SECCON) | [2017 Quals](SECCON/2017/Quals) | [CTFtime](https://ctftime.org/event/512/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/SECCON/2017/Quals) |
 | [SPbCTF](SPbCTF) | [2020 Quals](SPbCTF/2020/Quals) | [CTFtime](https://ctftime.org/event/1188/tasks/) |
 | [Securinets](Securinets) | [2021 Quals](Securinets/2021/Quals) | [CTFtime](https://ctftime.org/event/1308/tasks/) |
 | [Securinets](Securinets) | [2020 Quals](Securinets/2020/Quals) | [CTFtime](https://ctftime.org/event/1016/tasks/) |
@@ -183,14 +183,14 @@ Collection of CTF challenges.
 | [Square](Square) | [2020](Square/2020) | [CTFtime](https://ctftime.org/event/1174/tasks/) |
 | [StarCTF](StarCTF) | [2021](StarCTF/2021) | [CTFtime](https://ctftime.org/event/1242/tasks/) |
 | [StarCTF](StarCTF) | [2019](StarCTF/2019) | [CTFtime](https://ctftime.org/event/778/tasks/) |
-| [StarCTF](StarCTF) | [2018](StarCTF/2018) | [CTFtime](https://ctftime.org/event/614/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/StarCTF/2018) |
+| [StarCTF](StarCTF) | [2018](StarCTF/2018) | [CTFtime](https://ctftime.org/event/614/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/StarCTF/2018) |
 | [SuSeC](SuSeC) | [2020](SuSeC/2020) | [CTFtime](https://ctftime.org/event/1007/tasks/) |
 | [Sunshine](Sunshine) | [2020](Sunshine/2020) | [CTFtime](https://ctftime.org/event/992/tasks/) |
 | [Sunshine](Sunshine) | [2019](Sunshine/2019) | [CTFtime](https://ctftime.org/event/767/tasks/) |
 | [SyskronSecurity](SyskronSecurity) | [2020](SyskronSecurity/2020) | [CTFtime](https://ctftime.org/event/1148/tasks/) |
 | [TAMUctf](TAMUctf) | [2020](TAMUctf/2020) | [CTFtime](https://ctftime.org/event/1009/tasks/) |
-| [TAMUctf](TAMUctf) | [2019](TAMUctf/2019) | [CTFtime](https://ctftime.org/event/740/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/TAMUctf/2019) |
-| [TAMUctf](TAMUctf) | [2018](TAMUctf/2018) | [CTFtime](https://ctftime.org/event/559/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/TAMUctf/2018) |
+| [TAMUctf](TAMUctf) | [2019](TAMUctf/2019) | [CTFtime](https://ctftime.org/event/740/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/TAMUctf/2019) |
+| [TAMUctf](TAMUctf) | [2018](TAMUctf/2018) | [CTFtime](https://ctftime.org/event/559/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/TAMUctf/2018) |
 | [TGHACK](TGHACK) | [2020](TGHACK/2020) | [CTFtime](https://ctftime.org/event/932/tasks/) |
 | [TJCTF](TJCTF) | [2020](TJCTF/2020) | [CTFtime](https://ctftime.org/event/928/tasks/) |
 | [TSGCTF](TSGCTF) | [2020](TSGCTF/2020) | [CTFtime](https://ctftime.org/event/1004/tasks/) |
@@ -205,13 +205,13 @@ Collection of CTF challenges.
 | [TokyoWesterns](TokyoWesterns) | [2018](TokyoWesterns/2018) | [CTFtime](https://ctftime.org/event/651/tasks/) |
 | [TrollCAT](TrollCAT) | [2021](TrollCAT/2021) | [CTFtime](https://ctftime.org/event/1257/tasks/) |
 | [UIUCTF](UIUCTF) | [2020](UIUCTF/2020) | [CTFtime](https://ctftime.org/event/1075/tasks/) |
-| [UIUCTF](UIUCTF) | [2018](UIUCTF/2018) | [CTFtime](https://ctftime.org/event/587/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/UIUCTF/2018) |
+| [UIUCTF](UIUCTF) | [2018](UIUCTF/2018) | [CTFtime](https://ctftime.org/event/587/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/UIUCTF/2018) |
 | [UMDCTF](UMDCTF) | [2021](UMDCTF/2021) | [CTFtime](https://ctftime.org/event/1288/tasks/) |
 | [UMDCTF](UMDCTF) | [2020](UMDCTF/2020) | [CTFtime](https://ctftime.org/event/1040/tasks/) |
 | [UMass](UMass) | [2021](UMass/2021) | [CTFtime](https://ctftime.org/event/1282/tasks/) |
 | [UTCTF](UTCTF) | [2021](UTCTF/2021) | [CTFtime](https://ctftime.org/event/1177/tasks/) |
 | [UTCTF](UTCTF) | [2020](UTCTF/2020) | [CTFtime](https://ctftime.org/event/929/tasks/) |
-| [UTCTF](UTCTF) | [2019](UTCTF/2019) | [CTFtime](https://ctftime.org/event/757/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/UTCTF/2019) |
+| [UTCTF](UTCTF) | [2019](UTCTF/2019) | [CTFtime](https://ctftime.org/event/757/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/UTCTF/2019) |
 | [Union](Union) | [2021](Union/2021) | [CTFtime](https://ctftime.org/event/1246/tasks/) |
 | [VULNCON](VULNCON) | [2020](VULNCON/2020) | [CTFtime](https://ctftime.org/event/1149/tasks/) |
 | [ViettelMates](ViettelMates) | [2018](ViettelMates/2018) | [CTFtime](https://ctftime.org/event/629/tasks/) |
@@ -223,9 +223,9 @@ Collection of CTF challenges.
 | [WMCTF](WMCTF) | [2020](WMCTF/2020) | [CTFtime](https://ctftime.org/event/1094/tasks/) |
 | [WPICTF](WPICTF) | [2020](WPICTF/2020) | [CTFtime](https://ctftime.org/event/913/tasks/) |
 | [WPICTF](WPICTF) | [2019](WPICTF/2019) | [CTFtime](https://ctftime.org/event/728/tasks/) |
-| [WPICTF](WPICTF) | [2018](WPICTF/2018) | [CTFtime](https://ctftime.org/event/600/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/WPICTF/2018) |
+| [WPICTF](WPICTF) | [2018](WPICTF/2018) | [CTFtime](https://ctftime.org/event/600/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/WPICTF/2018) |
 | [WhiteHat](WhiteHat) | [2020 Quals](WhiteHat/2020/Quals) | [CTFtime](https://ctftime.org/event/942/tasks/) |
-| [WhiteHat](WhiteHat) | [2018 Quals](WhiteHat/2018/Quals) | [CTFtime](https://ctftime.org/event/656/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/WhiteHat/2018/Quals) |
+| [WhiteHat](WhiteHat) | [2018 Quals](WhiteHat/2018/Quals) | [CTFtime](https://ctftime.org/event/656/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/WhiteHat/2018/Quals) |
 | [X-MAS](X-MAS) | [2020](X-MAS/2020) | [CTFtime](https://ctftime.org/event/1209/tasks/) |
 | [X-MAS](X-MAS) | [2018](X-MAS/2018) | [CTFtime](https://ctftime.org/event/724/tasks/) |
 | [angstrom](angstrom) | [2021](angstrom/2021) | [CTFtime](https://ctftime.org/event/1265/tasks/) |
@@ -238,7 +238,7 @@ Collection of CTF challenges.
 | [castorsCTF](castorsCTF) | [2020](castorsCTF/2020) | [CTFtime](https://ctftime.org/event/1063/tasks/) |
 | [csictf](csictf) | [2020](csictf/2020) | [CTFtime](https://ctftime.org/event/1081/tasks/) |
 | [darkCON](darkCON) | [2021](darkCON/2021) | [CTFtime](https://ctftime.org/event/1250/tasks/) |
-| [iCTF](iCTF) | [2018](iCTF/2018) | [CTFtime](https://ctftime.org/event/567/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/iCTF/2018) |
+| [iCTF](iCTF) | [2018](iCTF/2018) | [CTFtime](https://ctftime.org/event/567/tasks/) [PersianCats](https://github.com/sajjadium/ctf-writeups/tree/master/iCTF/2018) |
 | [justCTF](justCTF) | [2021](justCTF/2021) | [CTFtime](https://ctftime.org/event/1050/tasks/) |
 | [justCTF](justCTF) | [2019](justCTF/2019) | [CTFtime](https://ctftime.org/event/943/tasks/) |
 | [kksctf](kksctf) | [2020](kksctf/2020) | [CTFtime](https://ctftime.org/event/1112/tasks/) |
