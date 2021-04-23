@@ -41,7 +41,7 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/1248/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="3kCTF">the3000</a></td>
+            <td rowspan=1><a href="3kCTF">3kCTF</a></td>
             <td><a href="3kCTF/2020">2020</a></td>
             <td><a href="https://ctftime.org/event/1077/tasks/">CTFtime</a></td>
         </tr>
@@ -51,26 +51,25 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/1091/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=3><a href="ASIS">ASIS Finals</a></td>
+            <td rowspan=7><a href="ASIS">ASIS</a></td>
             <td><a href="ASIS/2020/Finals">2020 Finals</a></td>
             <td><a href="https://ctftime.org/event/1111/tasks/">CTFtime</a></td>
+        </tr>
+        <tr>
+            <td><a href="ASIS/2020/Quals">2020 Quals</a></td>
+            <td><a href="https://ctftime.org/event/964/tasks/">CTFtime</a></td>
         </tr>
         <tr>
             <td><a href="ASIS/2019/Finals">2019 Finals</a></td>
             <td><a href="https://ctftime.org/event/805/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td><a href="ASIS/2018/Finals">2018 Finals</a></td>
-            <td><a href="https://ctftime.org/event/620/tasks/">CTFtime</a> <a href="https://github.com/sajjadium/ctf-writeups/tree/master/ASIS/2018/Finals">PersianCats</a></td>
-        </tr>
-        <tr>
-            <td rowspan=4><a href="ASIS">ASIS Quals</a></td>
-            <td><a href="ASIS/2020/Quals">2020 Quals</a></td>
-            <td><a href="https://ctftime.org/event/964/tasks/">CTFtime</a></td>
-        </tr>
-        <tr>
             <td><a href="ASIS/2019/Quals">2019 Quals</a></td>
             <td><a href="https://ctftime.org/event/732/tasks/">CTFtime</a></td>
+        </tr>
+        <tr>
+            <td><a href="ASIS/2018/Finals">2018 Finals</a></td>
+            <td><a href="https://ctftime.org/event/620/tasks/">CTFtime</a> <a href="https://github.com/sajjadium/ctf-writeups/tree/master/ASIS/2018/Finals">PersianCats</a></td>
         </tr>
         <tr>
             <td><a href="ASIS/2018/Quals">2018 Quals</a></td>
@@ -316,7 +315,7 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/1296/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="DamCTF">Dam</a></td>
+            <td rowspan=1><a href="DamCTF">DamCTF</a></td>
             <td><a href="DamCTF/2020">2020</a></td>
             <td><a href="https://ctftime.org/event/1076/tasks/">CTFtime</a></td>
         </tr>
@@ -331,7 +330,7 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/1030/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=2><a href="De1CTF">De1</a></td>
+            <td rowspan=2><a href="De1CTF">De1CTF</a></td>
             <td><a href="De1CTF/2020">2020</a></td>
             <td><a href="https://ctftime.org/event/1033/tasks/">CTFtime</a></td>
         </tr>
@@ -402,7 +401,7 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/1066/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="GACTF">GA</a></td>
+            <td rowspan=1><a href="GACTF">GACTF</a></td>
             <td><a href="GACTF/2020">2020</a></td>
             <td><a href="https://ctftime.org/event/1115/tasks/">CTFtime</a></td>
         </tr>
@@ -568,7 +567,7 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/686/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="KasperskyCTF">Kaspersky Industrial</a></td>
+            <td rowspan=1><a href="KasperskyCTF">Kaspersky</a></td>
             <td><a href="KasperskyCTF/2018">2018</a></td>
             <td><a href="https://ctftime.org/event/701/tasks/">CTFtime</a></td>
         </tr>
@@ -797,7 +796,7 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/512/tasks/">CTFtime</a> <a href="https://github.com/sajjadium/ctf-writeups/tree/master/SECCON/2017/Quals">PersianCats</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="SPbCTF">SPbCTF's Student</a></td>
+            <td rowspan=1><a href="SPbCTF">SPbCTF</a></td>
             <td><a href="SPbCTF/2020/Quals">2020 Quals</a></td>
             <td><a href="https://ctftime.org/event/1188/tasks/">CTFtime</a></td>
         </tr>
@@ -903,7 +902,7 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/928/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=2><a href="TSGCTF">TSG</a></td>
+            <td rowspan=2><a href="TSGCTF">TSGCTF</a></td>
             <td><a href="TSGCTF/2020">2020</a></td>
             <td><a href="https://ctftime.org/event/1004/tasks/">CTFtime</a></td>
         </tr>
@@ -912,7 +911,7 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/758/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="TUCTF">TU</a></td>
+            <td rowspan=1><a href="TUCTF">TUCTF</a></td>
             <td><a href="TUCTF/2018">2018</a></td>
             <td><a href="https://ctftime.org/event/650/tasks/">CTFtime</a></td>
         </tr>
@@ -927,7 +926,7 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/1266/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=2><a href="TetCTF">Tet</a></td>
+            <td rowspan=2><a href="TetCTF">TetCTF</a></td>
             <td><a href="TetCTF/2021">2021</a></td>
             <td><a href="https://ctftime.org/event/1213/tasks/">CTFtime</a></td>
         </tr>
@@ -1032,7 +1031,7 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/1094/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=3><a href="WPICTF">WPI</a></td>
+            <td rowspan=3><a href="WPICTF">WPICTF</a></td>
             <td><a href="WPICTF/2020">2020</a></td>
             <td><a href="https://ctftime.org/event/913/tasks/">CTFtime</a></td>
         </tr>
