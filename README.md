@@ -525,6 +525,11 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/549/tasks/">CTFtime</a></td>
         </tr>
         <tr>
+            <td rowspan=1><a href="Hero">Hero</a></td>
+            <td><a href="Hero/2020">2020</a></td>
+            <td><a href="https://ctftime.org/event/1284/tasks/">CTFtime</a></td>
+        </tr>
+        <tr>
             <td rowspan=1><a href="HexionCTF">Hexion</a></td>
             <td><a href="HexionCTF/2020">2020</a></td>
             <td><a href="https://ctftime.org/event/1014/tasks/">CTFtime</a></td>
