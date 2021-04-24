@@ -526,7 +526,7 @@ Collection of CTF challenges.
         </tr>
         <tr>
             <td rowspan=1><a href="Hero">Hero</a></td>
-            <td><a href="Hero/2020">2020</a></td>
+            <td><a href="Hero/2021">2021</a></td>
             <td><a href="https://ctftime.org/event/1284/tasks/">CTFtime</a></td>
         </tr>
         <tr>
