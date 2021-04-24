@@ -1036,7 +1036,11 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/1094/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=3><a href="WPICTF">WPICTF</a></td>
+            <td rowspan=4><a href="WPICTF">WPICTF</a></td>
+            <td><a href="WPICTF/2021">2020</a></td>
+            <td><a href="https://ctftime.org/event/1208/tasks/">CTFtime</a></td>
+        </tr>
+        <tr>
             <td><a href="WPICTF/2020">2020</a></td>
             <td><a href="https://ctftime.org/event/913/tasks/">CTFtime</a></td>
         </tr>
