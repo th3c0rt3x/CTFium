@@ -1,5 +1,7 @@
 # Carmen Sandiego Handout
 
+Carmen isn't your average thief – in fact, she's trying to save the artifacts she steals! Join Carmen, Player, Zach, and Ivy as they protect the world's cultural history from the likes of VILE, one theft at a time. But they have to be careful: ACME thinks they're on the wrong side of the law and will stop at nothing to bring them to justice.
+
 ## Important Hint
 
 The intended solution uses a bug in `file.c` of GoAhead.  (Feel free to look for bugs elsewhere though!)
