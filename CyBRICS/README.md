@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/334">CyBRICS CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/334)

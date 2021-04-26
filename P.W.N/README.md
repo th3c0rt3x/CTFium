@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/159">CyberSecurityRumble CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/159)

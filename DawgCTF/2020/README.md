@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/1030">DawgCTF</a>
+[CTFtime Page](https://ctftime.org/event/1030)

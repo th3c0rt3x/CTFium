@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/244">Byte Bandits CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/244)

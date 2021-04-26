@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/136">HSCTF</a>
+[CTFtime Page](https://ctftime.org/ctf/136)

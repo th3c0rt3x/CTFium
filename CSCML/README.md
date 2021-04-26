@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/470">CSCML CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/470)

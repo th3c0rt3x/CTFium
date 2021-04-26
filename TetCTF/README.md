@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/290">TetCTF</a>
+[CTFtime Page](https://ctftime.org/ctf/290)

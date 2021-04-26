@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/544">34C3 CTF</a>
+[CTFtime Page](https://ctftime.org/event/544)

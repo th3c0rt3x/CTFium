@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/502">COMPFEST CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/502)

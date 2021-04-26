@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/488">CSAW CTF Qualification Round 2017</a>
+[CTFtime Page](https://ctftime.org/event/488)

@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/192">INS'hAck</a>
+[CTFtime Page](https://ctftime.org/ctf/192)

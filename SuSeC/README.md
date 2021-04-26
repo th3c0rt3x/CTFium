@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/418">SuSeCTF</a>
+[CTFtime Page](https://ctftime.org/ctf/418)

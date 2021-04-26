@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/280">CONFidence CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/280)

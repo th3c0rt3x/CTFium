@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/939">HSCTF 7</a>
+[CTFtime Page](https://ctftime.org/event/939)

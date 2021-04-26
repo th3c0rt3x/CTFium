@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/1330">Pragyan CTF 2021</a>
+[CTFtime Page](https://ctftime.org/event/1330)

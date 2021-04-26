@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/129">BlazeCTF</a>
+[CTFtime Page](https://ctftime.org/ctf/129)

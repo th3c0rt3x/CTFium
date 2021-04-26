@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/611">FooBarCTF</a>
+[CTFtime Page](https://ctftime.org/ctf/611)

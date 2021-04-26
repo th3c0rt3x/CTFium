@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/598">UMassCTF</a>
+[CTFtime Page](https://ctftime.org/ctf/598)

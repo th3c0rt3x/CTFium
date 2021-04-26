@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/298">Aero CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/298)

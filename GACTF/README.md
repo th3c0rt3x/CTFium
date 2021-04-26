@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/505">GACTF</a>
+[CTFtime Page](https://ctftime.org/ctf/505)

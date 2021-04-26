@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/394">BambooFox CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/394)

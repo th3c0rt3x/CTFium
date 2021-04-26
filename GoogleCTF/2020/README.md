@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/1041">Google Capture The Flag 2020</a>
+[CTFtime Page](https://ctftime.org/event/1041)

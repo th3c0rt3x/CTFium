@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/603">BlueHens CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/603)

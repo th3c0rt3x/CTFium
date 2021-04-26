@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/364">ASIS CTF Quals 2017</a>
+[CTFtime Page](https://ctftime.org/event/364)

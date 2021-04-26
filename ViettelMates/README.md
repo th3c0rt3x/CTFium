@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/255">Viettel Mates CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/255)

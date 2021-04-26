@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/8">Hack.lu CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/8)

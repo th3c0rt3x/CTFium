@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/964">ASIS CTF Quals 2020</a>
+[CTFtime Page](https://ctftime.org/event/964)

@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/341">watevrCTF</a>
+[CTFtime Page](https://ctftime.org/ctf/341)

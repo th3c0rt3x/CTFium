@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/574">Union CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/574)

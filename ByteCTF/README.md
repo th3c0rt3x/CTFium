@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/340">ByteCTF</a>
+[CTFtime Page](https://ctftime.org/ctf/340)

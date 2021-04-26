@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/509">Dark CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/509)

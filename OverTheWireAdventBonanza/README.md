@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/276">OverTheWire Advent Bonanza</a>
+[CTFtime Page](https://ctftime.org/ctf/276)

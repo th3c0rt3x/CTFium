@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/577">darkCON CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/577)

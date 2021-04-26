@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/1086">TokyoWesterns CTF 6th 2020</a>
+[CTFtime Page](https://ctftime.org/event/1086)

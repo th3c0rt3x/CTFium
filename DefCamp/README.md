@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/73">Defcamp CTF Qualification</a>
+[CTFtime Page](https://ctftime.org/ctf/73)

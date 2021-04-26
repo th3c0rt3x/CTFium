@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/500">MetaCTF</a>
+[CTFtime Page](https://ctftime.org/ctf/500)

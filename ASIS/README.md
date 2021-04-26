@@ -1,3 +1,3 @@
-<a href="https://ctftime.org/ctf/55">ASIS CTF Quals</a>
-<br>
-<a href="https://ctftime.org/ctf/59">ASIS CTF Finals</a>
+[CTFtime Page (Quals)](https://ctftime.org/ctf/55)
+
+[CTFtime Page (Finals)](https://ctftime.org/ctf/59)

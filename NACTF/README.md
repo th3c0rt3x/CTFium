@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/350">NACTF</a>
+[CTFtime Page](https://ctftime.org/ctf/350)

@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/540">BSides Delhi CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/540)

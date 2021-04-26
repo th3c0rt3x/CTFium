@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/116">TokyoWesterns/MMA CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/116)

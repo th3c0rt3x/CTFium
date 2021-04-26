@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/218">Square CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/218)

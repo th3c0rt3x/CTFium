@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/141">Google Capture The Flag</a>
+[CTFtime Page](https://ctftime.org/ctf/141)

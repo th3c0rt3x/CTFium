@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/368">Layer7 CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/368)

@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/425">AUCTF</a>
+[CTFtime Page](https://ctftime.org/ctf/425)

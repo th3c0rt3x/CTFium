@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/232">Harekaze CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/232)

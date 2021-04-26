@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/208">CODE BLUE CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/208)

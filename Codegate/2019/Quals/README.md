@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/719">Codegate CTF 2019 Preliminary</a>
+[CTFtime Page](https://ctftime.org/event/719)

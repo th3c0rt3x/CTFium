@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/217">Kaspersky Industrial CTF Finals</a>
+[CTFtime Page](https://ctftime.org/ctf/217)

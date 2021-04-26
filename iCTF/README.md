@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/5">UCSB iCTF</a>
+[CTFtime Page](https://ctftime.org/ctf/5)

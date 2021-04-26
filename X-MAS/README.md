@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/277">X-MAS CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/277)

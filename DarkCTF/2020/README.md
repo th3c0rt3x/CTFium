@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/1118">DarkCTF</a>
+[CTFtime Page](https://ctftime.org/event/1118)

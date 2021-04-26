@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/115">Hackcon</a>
+[CTFtime Page](https://ctftime.org/ctf/115)

@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/1094">WMCTF 2020</a>
+[CTFtime Page](https://ctftime.org/event/1094)

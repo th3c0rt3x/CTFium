@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/3">Codegate CTF Preliminary</a>
+[CTFtime Page](https://ctftime.org/ctf/3)

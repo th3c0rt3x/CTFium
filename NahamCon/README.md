@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/438">CTF4Hire</a>
+[CTFtime Page](https://ctftime.org/ctf/438)

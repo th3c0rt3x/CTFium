@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/825">hxp 36C3 CTF</a>
+[CTFtime Page](https://ctftime.org/event/825)

@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/477">the3000</a>
+[CTFtime Page](https://ctftime.org/ctf/477)

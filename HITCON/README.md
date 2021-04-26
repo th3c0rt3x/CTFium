@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/79">HITCON CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/79)

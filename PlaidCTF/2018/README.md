@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/617">PlaidCTF 2018</a>
+[CTFtime Page](https://ctftime.org/event/617)

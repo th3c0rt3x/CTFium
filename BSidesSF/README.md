@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/252">BSidesSF CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/252)

@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/1322">FooBar CTF 2021</a>
+[CTFtime Page](https://ctftime.org/event/1322)

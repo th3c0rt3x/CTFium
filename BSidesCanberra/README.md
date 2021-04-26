@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/600">BSides Canberra</a>
+[CTFtime Page](https://ctftime.org/ctf/600)

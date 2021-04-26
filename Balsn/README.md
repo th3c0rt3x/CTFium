@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/318">Balsn CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/318)

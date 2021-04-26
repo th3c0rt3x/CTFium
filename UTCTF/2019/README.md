@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/event/757">UTCTF 2019</a>
+[CTFtime Page](https://ctftime.org/event/757)

@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/52">VolgaCTF Qualifier</a>
+[CTFtime Page](https://ctftime.org/ctf/52)

@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/331">redpwnCTF</a>
+[CTFtime Page](https://ctftime.org/ctf/331)

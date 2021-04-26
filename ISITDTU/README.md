@@ -1,1 +1,1 @@
-<a href="https://ctftime.org/ctf/258">ISITDTU CTF</a>
+[CTFtime Page](https://ctftime.org/ctf/258)
