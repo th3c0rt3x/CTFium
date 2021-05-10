@@ -329,12 +329,12 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/1118/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=2><a href="DawgCTF">Dawg</a></td>
-            <td><a href="DawgCTF/2021">2020</a></td>
+            <td rowspan=2><a href="Dawg">Dawg</a></td>
+            <td><a href="Dawg/2021">2021</a></td>
             <td><a href="https://ctftime.org/event/1319/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td><a href="DawgCTF/2020">2020</a></td>
+            <td><a href="Dawg/2020">2020</a></td>
             <td><a href="https://ctftime.org/event/1030/tasks/">CTFtime</a></td>
         </tr>
         <tr>
