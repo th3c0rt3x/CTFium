@@ -1158,7 +1158,11 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/874/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=2><a href="m0leCon">m0leCon</a></td>
+            <td rowspan=3><a href="m0leCon">m0leCon</a></td>
+            <td><a href="m0leCon/2021/Quals">2021 Quals</a></td>
+            <td><a href="https://ctftime.org/event/1325/tasks/">CTFtime</a></td>
+        </tr>
+        <tr>
             <td><a href="m0leCon/2020/Finals">2020 Finals</a></td>
             <td><a href="https://ctftime.org/event/1135/tasks/">CTFtime</a></td>
         </tr>
