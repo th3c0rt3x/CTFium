@@ -297,6 +297,11 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/1169/tasks/">CTFtime</a></td>
         </tr>
         <tr>
+            <td rowspan=1><a href="DCTF">DCTF</a></td>
+            <td><a href="DCTF/2021">2021</a></td>
+            <td><a href="https://ctftime.org/event/1361/tasks/">CTFtime</a></td>
+        </tr>
+        <tr>
             <td rowspan=4><a href="DEFCON">DEF CON</a></td>
             <td><a href="DEFCON/2021/Quals">2021 Quals</a></td>
             <td><a href="https://ctftime.org/event/1254/tasks/">CTFtime</a></td>
