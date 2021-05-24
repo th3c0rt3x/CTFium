@@ -678,7 +678,7 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/1067/tasks/">CTFtime</a></td>
         </tr>
         <tr>
-            <td rowspan=1><a href="Norzh">NahamCon</a></td>
+            <td rowspan=1><a href="Norzh">Norzh</a></td>
             <td><a href="Norzh/2021">2021</a></td>
             <td><a href="https://ctftime.org/event/1301/tasks/">CTFtime</a></td>
         </tr>
