@@ -743,9 +743,13 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/755/tasks/">CTFtime</a></td>
         </tr>
         <tr>
+            <td rowspan=4><a href="Pwn2Win">Pwn2Win</a></td>
+            <td><a href="Pwn2Win/2021">2021</a></td>
+            <td><a href="https://ctftime.org/event/1186/tasks/">CTFtime</a></td>
+        </tr>
+        <tr>
             <td rowspan=3><a href="Pwn2Win">Pwn2Win</a></td>
             <td><a href="Pwn2Win/2020">2020</a></td>
-            <td><a href="https://ctftime.org/event/961/tasks/">CTFtime</a></td>
         </tr>
         <tr>
             <td><a href="Pwn2Win/2019">2019</a></td>
