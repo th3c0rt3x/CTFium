@@ -1108,6 +1108,11 @@ Collection of CTF challenges.
             <td><a href="https://ctftime.org/event/724/tasks/">CTFtime</a></td>
         </tr>
         <tr>
+            <td rowspan=1><a href="Zh3r0">Zh3r0</a></td>
+            <td><a href="Zh3r0/2021">2021</a></td>
+            <td><a href="https://ctftime.org/event/1285/tasks/">CTFtime</a></td>
+        </tr>
+        <tr>
             <td rowspan=4><a href="angstrom">angstrom</a></td>
             <td><a href="angstrom/2021">2021</a></td>
             <td><a href="https://ctftime.org/event/1265/tasks/">CTFtime</a></td>
